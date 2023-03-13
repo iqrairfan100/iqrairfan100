@@ -1,4 +1,4 @@
-Hey, I’m @iqrairfan100, a recent graduate UCLA student and computer science student at CSULA. I'm passionate about using my skills to aid others and develop meaningful applications. 
+Hey, I’m @iqrairfan100, a recent graduate from UCLA and computer science student at CSULA. I'm passionate about using my skills to aid others and develop meaningful applications. 
 
 I develop programs using OOP langauges such as JavaScript, Java, and Swift! Additionally, I work with libraries such as React Native. To see more of my skills, check out my portfolio site at iqrairfan.com. 
 
